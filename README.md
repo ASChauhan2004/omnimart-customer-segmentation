@@ -8,7 +8,7 @@
 
 ![Project overview](visuals/project_overview.png)
 
-[Explore the notebooks](#notebook-guide) · [View the segments](#customer-segments) · [Review the methodology](#methodology) · [Business recommendations](#business-decisions)
+[Explore the notebooks](#notebook-guide) · [View the segments](#customer-segments) · [Review the methodology](#methodology) · [Business recommendations](#business-decisions-and-measurement)
 
 </div>
 
@@ -157,7 +157,7 @@ The repository preserves the project's existing directory structure and relative
 
 1. Clone or download this repository.
 2. Install the packages in `requirements.txt`.
-3. Keep the source workbook in `data/` with the filename referenced by Notebook 02.
+3. Keep `data/OmniRetail_Customer_Analytics_Group_Project.xlsx` in the `data/` folder. This is the original workbook used by the inspection and cleaning notebooks.
 4. Open Jupyter from the repository root.
 5. Run notebooks `01` through `06` in order.
 
