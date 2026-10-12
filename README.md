@@ -4,6 +4,10 @@
 
 ### From customer data to actionable retail strategy
 
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://omnimart-customer-insights.streamlit.app/) [![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Source-181717?logo=github)](https://github.com/ASChauhan2004/omnimart-customer-segmentation)
+
+**[🚀 Explore the Live Dashboard](https://omnimart-customer-insights.streamlit.app/)** · **[📂 View Source Code](https://github.com/ASChauhan2004/omnimart-customer-segmentation)**
+
 **Data Cleaning · Exploratory Analysis · PCA · K-Means · Customer Segmentation**
 
 ![Project overview](visuals/project_overview.png)
